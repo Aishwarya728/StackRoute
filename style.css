@@ -1,0 +1,20 @@
+body{
+	
+	background-color:#E5E3DB; 
+	text decoration:none;
+}
+
+div.divstyle{
+	width:40%;
+	margin-left:auto;
+	margin-right:auto;
+	}
+
+div.border{
+	border-style:solid;
+	border-color:white;
+	text-align:center;
+	border-width:2px;
+	border-height:40px;
+	
+	}
